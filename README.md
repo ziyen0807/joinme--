@@ -29,4 +29,4 @@
    * API：運用 google map API 和 google place API 作為 APP 主要頁面呈現， Place API 則讓用戶更精確的標記活動地點。
    * Programing Language：Java。
 ## 企劃書
-   
+[file](https://github.com/ziyen0807/joinme--/blob/main/joinme.docx?raw=true) 
