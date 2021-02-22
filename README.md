@@ -26,7 +26,7 @@
 聊天室頁面      | 聊天記錄<br>群組列表<br>好友列表
 ## 技術
    * DB：透過 firebase 作為連結整個 APP 的資料庫。
-   * API：運用 google map API 和 google place API 作為 APP 主要頁面呈現，透過 Place API 讓用戶更精確的標記活動地點。
+   * API：運用 google map API 和 google place API 作為 APP 主要頁面呈現， Place API 則讓用戶更精確的標記活動地點。
    * Programing Language：Java。
 ## 企劃書
    
